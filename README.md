@@ -39,7 +39,7 @@
 
 ## menghitung luas dan keliling Lingkaran Menggunakan Python
 
-- Jika menggunakan arch based linux bisa dengan command
+- Jika menggunakan arch based linux bisa dengan command:
 
 ```
 python -m venv venv
