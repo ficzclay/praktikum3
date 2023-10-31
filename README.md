@@ -168,3 +168,5 @@ git clone [url]
 ![6](https://github.com/ficzclay/praktikum3/assets/148204078/ca54a659-9e4d-499c-bb66-3792a4a5b29d)
 
 ![7](https://github.com/ficzclay/praktikum3/assets/148204078/a3c20e39-4bfa-4ffe-9f2f-74313523e055)
+
+![Screenshot_20231031_160757](https://github.com/ficzclay/praktikum3/assets/148204078/a1a862f2-3fc5-4115-899c-225448814972)
