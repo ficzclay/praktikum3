@@ -154,3 +154,17 @@ git clone [url]
 ```
 
 ## Berikut bukti pengerjaan-nya
+
+![1](https://github.com/ficzclay/praktikum3/assets/148204078/5b99929b-fa7d-434c-a38d-3f644de628b2)
+
+![2](https://github.com/ficzclay/praktikum3/assets/148204078/798b87a9-239a-438a-a087-d436ed43110a)
+
+![3](https://github.com/ficzclay/praktikum3/assets/148204078/4e907d2c-3899-41be-95c2-63163a27e515)
+
+![4](https://github.com/ficzclay/praktikum3/assets/148204078/add9031c-b2dc-4291-8019-8d0e775df3c8)
+
+![5](https://github.com/ficzclay/praktikum3/assets/148204078/c2578ce8-58fd-49c1-9a8a-e89cb34db76c)
+
+![6](https://github.com/ficzclay/praktikum3/assets/148204078/ca54a659-9e4d-499c-bb66-3792a4a5b29d)
+
+![7](https://github.com/ficzclay/praktikum3/assets/148204078/a3c20e39-4bfa-4ffe-9f2f-74313523e055)
