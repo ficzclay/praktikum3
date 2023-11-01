@@ -39,16 +39,6 @@
 
 ## menghitung luas dan keliling Lingkaran Menggunakan Python
 
-- Jika menggunakan arch based linux bisa dengan command:
-
-```
-python -m venv venv
-```
-
-```
-source venv/bin/activate
-```
-
 - Program ini menggunakan modul math untuk mengakses nilai π (pi) yang digunakan dalam perhitungan lingkaran.
 
 Pengguna diminta untuk memasukkan jari-jari lingkaran dengan perintah input, dan input tersebut diubah menjadi angka desimal (float) dengan float(input("Masukkan jari-jari lingkaran: ")).
